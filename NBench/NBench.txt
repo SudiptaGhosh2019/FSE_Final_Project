@@ -1,0 +1,20 @@
+
+
+C:\Users\Administrator>C:\Users\Fse_Final_Project\Server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe C:\Users\Fse_Final_Project\Server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll --output "C:\Users\Administrator\Desktop\LoadTest"
+Executing Benchmarks in C:\Users\Fse_Final_Project\Server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.1326256
+Elapsed Time - ms: 1,132.00 ,ms: /s 999.45 , ns / ms: 1,000,552.65
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 1,132.00 ms, Average: 1,132.00 ms, Min: 1,132.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.45 ms, Average / s: 999.45 ms, Min / s: 999.45 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 1,132.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ----------
+
